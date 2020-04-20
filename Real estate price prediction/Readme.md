@@ -8,3 +8,4 @@ In progress:
   - feature importances
   - deal with overfitting
  
+Currently score on Kaggle 0.13535 (RMSLE), in top 40%. 
