@@ -6,6 +6,5 @@ In progress:
   - fix features skewes 
   - try to add some new features
   - feature importances
-  - deal with overfitting
  
 Currently score on Kaggle 0.13535 (RMSLE), in top 40%. 
