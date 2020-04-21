@@ -11,7 +11,6 @@ Changes:
  
 
 In progress:
-  - add despritions and comments
   - fix features skewes 
   - try to add some new features
   - feature importances
