@@ -7,4 +7,11 @@ In progress:
   - try to add some new features
   - feature importances
  
-Currently score on Kaggle 0.13535 (RMSLE), in top 40%. 
+Currently score on Kaggle 0.12830 (RMSLE), in top 30%. 
+Previous: 0.13535
+
+Changes:
+- Didn't add new feats
+- Optimise model with RandomSearch
+- Change cv from 5 to 10 for cross_val_score
+ 
