@@ -8,9 +8,9 @@ I handle task in few steps:
   - cleaning dataset 
   - trying few supervised machine learning models with cross validation
   - leaved 3 of them (LogisticRegression, SVC, XGBoost) 
-  - trying to buit some new features
+  - trying to build some new features
   - finally I leaved and trained SupportVectorMachine model
-  - making final prediction on test part and check it on Kaggle
+  - final prediction on test part and check it on Kaggle
 
 Final accuracy score on Kaggle: **0.80382** ([Kaggle Leaderboard](https://www.kaggle.com/c/titanic/leaderboard#score))
 
