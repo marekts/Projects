@@ -12,7 +12,7 @@ I handle task in few steps:
   - finally I leaved and trained SupportVectorMachine algorithm
   - making final prediction on test part and check it on Kaggle
 
-Final accuracy score on Kaggle: **0.80382** ([ Kaggle Leaderboard](https://www.kaggle.com/c/titanic/leaderboard#score))
+Final accuracy score on Kaggle: **0.80382** ([Kaggle Leaderboard](https://www.kaggle.com/c/titanic/leaderboard#score))
 
 <br>
 
