@@ -5,7 +5,7 @@ The data splited on train and test part. Train part contains colums _'Survived'_
 
 I handle task in few steps:
   - quick look on data
-  - clearing dataset 
+  - cleaning dataset 
   - trying few supervised machine learning models with cross validation
   - leaved 3 of them (LogisticRegression, SVC, XGBoost) 
   - trying to buit some new features
