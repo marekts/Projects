@@ -4,8 +4,7 @@ I will solve it participating in [Kaggle 'House prices' competition](https://www
 I will use supervised machine learning in order to built model which will be predict house prices based on house parameters.
 Data description in details are in file 'data_description.txt'.
 
+I placed data description in separated file 'data_description.txt' due to large amount of text.
+
 Currently score on Kaggle 0.12639 (RMSLE). [Link to leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard#score) <br>
-
-
- I placed data description in details in file 'data_description.txt' due to large amount of text.
 
