@@ -3,13 +3,10 @@ I will use dataset from Kaggle. This is a historical dataset on the modern Olymp
 
 Dataset consists from two parts: main part with all data and second part, which includes data about country. I will merge these two parts in one data frame. 
 
-<br>
-
 In this notebook I highlighted three parts:
   - **Age**. In this part I present different information about age: how had been changing mean, min, max age through the time, in which sport the most oldest and youngest participants etc. 
   - **Medals**. Which country and which sportsman got the most medals? In which sports?
   - **Sports**. Some information about different kinds of sports, as which sports were always in the Olympic Games and which is the new etc. 
-<br>
 
 **Data description** (whole dataset, after merging two parts): 
 
@@ -30,6 +27,6 @@ In this notebook I highlighted three parts:
   - Medal - Gold, Silver, Bronze, or NA
   - region - Athlete's country
   - notes - Remark about region
-  
+ 
 
   
