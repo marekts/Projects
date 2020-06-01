@@ -6,7 +6,7 @@ Dataset consists from two parts: main part with all data and second part, which 
 <br>
 
 In this notebook I highlighted three parts:
-  - **Age**. In this part I present different information about age: how have been changing mean, min, max age through the time, in which sports the most oldest and youngest participants etc. 
+  - **Age**. In this part I present different information about age: how had been changing mean, min, max age through the time, in which sport the most oldest and youngest participants etc. 
   - **Medals**. Which country and which sportsman got the most medals? In which sports?
   - **Sports**. Some information about different kinds of sports, as which sports were always in the Olympic Games and which is the new etc. 
 <br>
