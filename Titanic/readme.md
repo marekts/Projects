@@ -3,7 +3,7 @@ I solve this issue by participating in [Kaggle competition](https://www.kaggle.c
 
 The data splited on train and test part. Train part contains colums _'Survived'_ and test part not. 
 
-I handle task in few steps:
+I handle the task in few steps:
   - quick look on data
   - cleaning dataset 
   - trying few supervised machine learning models with cross validation
