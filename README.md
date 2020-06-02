@@ -2,7 +2,7 @@ I'm interesting machine learning and data science and in this repository I track
 
 In my project I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
 I also familiar with **SQL** (MySql), but I don't have many occasions to use it here. <br>
-
+<br>
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | MLP, CNN | Acc: ~99.3%|
