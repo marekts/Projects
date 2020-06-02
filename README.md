@@ -5,6 +5,7 @@ I also familiar with **SQL** (MySql), but I don't have many occasions to use it 
 <br>
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
+| Top 50 artist | Recognise artist by painting | CNN, RestNet50 | in progress | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | MLP, CNN | Acc: ~99.3%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
 | [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
