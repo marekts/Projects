@@ -1,4 +1,7 @@
-### In this repository I track my progress in ML and DS field.
+I'm interesting machine learning and data science and in this repository I track my progress in this field. Table with list of projects below. <br>
+
+In my project I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
+I also familiar with **SQL** (MySql), but I don't have many occasions to use it here. <br>
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
@@ -6,4 +9,20 @@
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
 | [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
 | [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | Pandas, Matplotlib | | 
+
+
+Mainly I'm learning from books and online courses.
+
+Some of books I have read:
+  - "Python crash course" by Eric Matthes 
+  - "Python for data analysis" by Wes McKinney 
+  - "Hands-on Machine Learning with Scikit-Learn and TensorFlow" by Aurelien Geron
+
+Some of courses I finished:
+  - [Cognitive Class: Applied Data Science with Python](https://www.youracclaim.com/badges/102f184c-22f1-4381-98a0-5123658023d8/linked_in_profile)
+  - DataWorkshop: Practical Machine Learning
+  - [Udemy: The DataScience Course 2020](https://www.udemy.com/certificate/UC-480c5011-7a7a-4f45-b1cd-d7359928c934/) 
+  - [Cognitive Class: Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c44b1581dde04f88b3bcf70480467a42)
+
+I had been taking part in a few competition from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
 
