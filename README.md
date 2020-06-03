@@ -1,8 +1,8 @@
-I'm interesting machine learning and data science and in this repository I track my progress in this field. Table with list of projects below. <br>
+I'm interesting machine learning and data science and in this repository I track my progress in this field. <br>
 
-In my project I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
-I also familiar with **SQL** (MySql), but I don't have many occasions to use it here. <br>
+In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
 <br>
+
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
 | Top 50 artist | Recognise artist by painting | CNN, RestNet50 | in progress | 
