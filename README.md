@@ -24,5 +24,5 @@ Some of courses I finished:
   - [Udemy: The DataScience Course 2020](https://www.udemy.com/certificate/UC-480c5011-7a7a-4f45-b1cd-d7359928c934/) 
   - [Cognitive Class: Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c44b1581dde04f88b3bcf70480467a42)
 
-I had been taking part in a few competition from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
+I have been taking part in a few competition from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
 
