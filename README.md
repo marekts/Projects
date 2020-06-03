@@ -1,7 +1,6 @@
-I'm interesting machine learning and data science and in this repository I track my progress in this field. <br>
+I'm interesting in machine learning and data science and in this repository I will track my progress in this field. <br>
 
 In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
-<br>
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
@@ -14,7 +13,7 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 
 Mainly I'm learning from books and online courses.
 
-Some of books I have read:
+Some of books I studied:
   - "Python crash course" by Eric Matthes 
   - "Python for data analysis" by Wes McKinney 
   - "Hands-on Machine Learning with Scikit-Learn and TensorFlow" by Aurelien Geron
