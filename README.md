@@ -1,11 +1,10 @@
-I'm interesting machine learning and data science and in this repository I track my progress in this field. Table with list of projects below. <br>
+I'm interesting in machine learning and data science and in this repository I will track my progress in this field. <br>
 
-In my project I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
-I also familiar with **SQL** (MySql), but I don't have many occasions to use it here. <br>
-<br>
+In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
+
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
-| Top 50 artist | Recognise artist by painting | CNN, RestNet50 | in progress | 
+| Top 50 artists | Recognise artist by painting | CNN, RestNet50 | in progress | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | MLP, CNN | Acc: ~99.3%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
 | [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
@@ -14,7 +13,7 @@ I also familiar with **SQL** (MySql), but I don't have many occasions to use it 
 
 Mainly I'm learning from books and online courses.
 
-Some of books I have read:
+Some of books I studied:
   - "Python crash course" by Eric Matthes 
   - "Python for data analysis" by Wes McKinney 
   - "Hands-on Machine Learning with Scikit-Learn and TensorFlow" by Aurelien Geron
@@ -25,5 +24,5 @@ Some of courses I finished:
   - [Udemy: The DataScience Course 2020](https://www.udemy.com/certificate/UC-480c5011-7a7a-4f45-b1cd-d7359928c934/) 
   - [Cognitive Class: Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c44b1581dde04f88b3bcf70480467a42)
 
-I had been taking part in a few competition from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
+I have been taking part in a few competition from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
 
