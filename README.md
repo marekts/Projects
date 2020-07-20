@@ -4,8 +4,8 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
-| Recognition of artists | Recognise artist by painting | CNN, transfer learning | in progress | 
-| [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | MLP, CNN | Acc: ~99.6%|
+| Recognition of artists | Identify artist by painting | Keras, CNN, transfer learning | in progress | 
+| [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
 | [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
 | [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | Pandas, Matplotlib | | 
