@@ -1,11 +1,12 @@
-I'm interesting in machine learning and data science and in this repository I will track my progress in this field. <br>
+I'm interesting in machine learning and data science and in this repository I will follow my progress in this field. <br>
 
 In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
-| Top 50 artists | Recognise artist by painting | CNN, transfer learning | in progress | 
-| [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | MLP, CNN | Acc: ~99.3%|
+| Books recommendation | User-based recommender system | Pandas | | 
+| Recognition of artists | Identification artist by painting | Keras, CNN, transfer learning | in progress | 
+| [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
 | [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
 | [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | Pandas, Matplotlib | | 
@@ -24,5 +25,5 @@ Some of courses I finished:
   - [Udemy: The DataScience Course 2020](https://www.udemy.com/certificate/UC-480c5011-7a7a-4f45-b1cd-d7359928c934/) 
   - [Cognitive Class: Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c44b1581dde04f88b3bcf70480467a42)
 
-I have been taking part in a few competition from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
+I have been taking part in a few competitions from Kaggle (by now only easy of them). Also I use this platform for looking for inspiration and datasets.  
 

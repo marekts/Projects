@@ -5,6 +5,7 @@ I used a few approach:
 
   - [x] Multilayer perceptron
   - [x] CNN
+  - [x] Data augmentation
   
-Accuracy for CNN is **~99.3%** <br>
+Accuracy for CNN is **~99.6%** <br>
 CNN performed a better result than MLP and it's no surprise, because CNN known by image recognition.
