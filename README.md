@@ -4,7 +4,7 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
-| Books recommendation | User-based recommender system | Pandas | | 
+| [ Books recommendation ](https://github.com/marekts/Projects/blob/master/Books%20recommendation/User-based.ipynb) | User-based recommender system | Pandas | | 
 | Recognition of artists | Identification artist by painting | Keras, CNN, transfer learning | in progress | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
