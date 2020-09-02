@@ -8,8 +8,8 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 | [ Recognition of artists ](https://github.com/marekts/Projects/blob/master/Arts/artist%20classification.ipynb) | Classification artist by painting | Keras, transfer learning | Acc: ~63% | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | NumPy, Pandas, ScikitLearn | Acc: ~80% |
-| [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Numpy, Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
-| [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | Numpy, Pandas, Matplotlib | | 
+| [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | NumPy, Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
+| [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | NumPy, Pandas, Matplotlib | | 
 
 
 Mainly I'm learning from books and online courses.
