@@ -1,15 +1,15 @@
 I'm interesting in machine learning and data science and in this repository I will follow my progress in this field. <br>
 
-In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, seaborn, keras**. <br>
+In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, matplotlib, keras**. <br>
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
 | [ Books recommendation ](https://github.com/marekts/Projects/blob/master/Books%20recommendation/User-based.ipynb) | User-based recommender system | Pandas | | 
 | [ Recognition of artists ](https://github.com/marekts/Projects/blob/master/Arts/artist%20classification.ipynb) | Classification artist by painting | Keras, transfer learning | Acc: ~63% | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
-| [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | Pandas, ScikitLearn | Acc: ~80% |
-| [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
-| [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | Pandas, Matplotlib | | 
+| [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | NumPy, Pandas, ScikitLearn | Acc: ~80% |
+| [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | Numpy, Pandas, ScikitLearn, XGBoost | RMSLE: 0.12639 |
+| [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | Numpy, Pandas, Matplotlib | | 
 
 
 Mainly I'm learning from books and online courses.
