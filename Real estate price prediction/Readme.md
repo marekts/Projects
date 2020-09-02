@@ -19,5 +19,5 @@ I separated the task on a few steps:
 
 I placed data description in separated file 'data_description.txt' due to large amount of text.
 
-Currently score on Kaggle **0.12639 (RMSLE)**. [Link to leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard#score) <br>
+Currently score on Kaggle **0.12639 (RMSLE)**.<br>
 
