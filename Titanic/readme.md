@@ -7,9 +7,9 @@ I handle the task in few steps:
   - quick look on data
   - cleaning dataset 
   - trying few supervised machine learning models with cross validation
-  - leaved 3 of them (LogisticRegression, SVC, XGBoost) 
   - trying to build some new features
-  - finally I leaved and trained SupportVectorMachine model
+  - hyperparameter optimization 
+  - use ensemble voting method to fit final model 
   - final prediction on test part and check it on Kaggle
 
 Final accuracy score on Kaggle: **0.80382** 
