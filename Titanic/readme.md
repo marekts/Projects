@@ -6,8 +6,8 @@ The data splited on train and test part. Train part contains colums _'Survived'_
 I handle the task in few steps:
   - quick look on data
   - cleaning dataset 
+  - feature engineering
   - trying few supervised machine learning models with cross validation
-  - trying to build some new features
   - hyperparameter optimization 
   - use ensemble voting method to fit final model 
   - final prediction on test part and check it on Kaggle
