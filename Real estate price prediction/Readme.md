@@ -11,13 +11,12 @@ Tools I used: **pandas, numpy, sklearn, xgboost, matplotlib** <br>
 I separated the task on a few steps:
   - understanding data
   - deal with empty values
-  - ~~deal with skewness~~ (I skipped this step because after some trying result hadn't improved)
-  - try a few models (I chose XGBoost)
   - feature engineering
+  - try a few models (I chose XGBoost ans SVM)
   - model optimization (feature importances and hyperparameter optimization)
   - testing model on test data and upload to Kaggle
 
 I placed data description in separated file 'data_description.txt' due to large amount of text.
 
-Currently score on Kaggle **0.12639 (RMSLE)**.<br>
+Currently score on Kaggle **0.12089 (RMSLE)**.<br>
 
