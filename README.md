@@ -4,12 +4,12 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
-| Facial recognition | Prediction age, gender and ethnicity by face image| Keras, CNN | Age, MAE: 5.7 <br>  Gender, Acc: ~91% <br>  Ethnicity, Acc ~81% |
+| Facial recognition | Prediction age, gender and ethnicity by face image| Keras, CNN |  |
 | [ Books recommendation ](https://github.com/marekts/Projects/blob/master/Books%20recommendation/User-based.ipynb) | User-based recommender system | Pandas | | 
-| [ Recognition of artists ](https://github.com/marekts/Projects/blob/master/Arts/artist%20classification.ipynb) | Classification artist by painting | Keras, transfer learning | Acc: ~63% | 
+| [ Recognition of artists ](https://github.com/marekts/Projects/blob/master/Arts/artist%20classification.ipynb) | Classification artist by painting | Keras, transfer learning | | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
 | [ Titanic ](https://github.com/marekts/Projects/tree/master/Titanic) | Prediction which passengers survived after disaster | NumPy, Pandas, ScikitLearn | Acc: ~80% |
-| [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | NumPy, Pandas, ScikitLearn, XGBoost | RMSLE: 0.12089 |
+| [ Real estate price prediction ](https://github.com/marekts/Projects/tree/master/Real%20estate%20price%20prediction) | Prediction houses sale prices | NumPy, Pandas, ScikitLearn, XGBoost |  |
 | [ The Olympic Games analysis ](https://github.com/marekts/Projects/tree/master/The%20Olympic%20Games%20analysis) | Research of the history of the Olympic Games | NumPy, Pandas, Matplotlib | | 
 
 
