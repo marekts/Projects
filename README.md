@@ -4,7 +4,7 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
-| Facial recognition | Prediction age, gender and ethnicity by face image| Keras, CNN |  |
+| [ Facial recognition ](https://github.com/marekts/Projects/tree/master/Face%20recognition) | Prediction age, gender and ethnicity by face image| Keras, CNN |  |
 | [ Books recommendation ](https://github.com/marekts/Projects/blob/master/Books%20recommendation/User-based.ipynb) | User-based recommender system | Pandas | | 
 | [ Recognition of artists ](https://github.com/marekts/Projects/blob/master/Arts/artist%20classification.ipynb) | Classification artist by painting | Keras, transfer learning | | 
 | [ MNIST ](https://github.com/marekts/Projects/tree/master/MNIST) | Recognise handwritten digits | Keras, MLP, CNN | Acc: ~99.6%|
