@@ -26,6 +26,8 @@ Some of courses I finished:
   - DataWorkshop: Practical Machine Learning
   - [Udemy: The DataScience Course 2020](https://www.udemy.com/certificate/UC-480c5011-7a7a-4f45-b1cd-d7359928c934/) 
   - [Cognitive Class: Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/c44b1581dde04f88b3bcf70480467a42)
+  - [Udemy: Python for Time Series Data Analysis](https://www.udemy.com/certificate/UC-ef1174e8-6e17-4d2a-a9be-1861e2d2871d/)
+  - [Udemy: PyTorch for Deep Learning with Python Bootcamp](https://www.udemy.com/certificate/UC-f030c460-be31-4bc2-bd34-cc8d5a8a64f7/)
 
 I have been taking part in a few competitions from Kaggle. Also I use this platform for looking for inspiration and datasets.  
 
