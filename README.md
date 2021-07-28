@@ -4,6 +4,7 @@ In my projects I use **Python** and libraries **numpy, pandas, scikit-learn, mat
 
 | Project | Description | Tools | Remarks |
 | --- | --- | --- | --- |
+| ATM Cash prediction | Forecasting cash demand of ATM |  |
 | [ Cassava Leaf Disease Classification ](https://github.com/marekts/Projects/blob/master/CassavaLeafDisease/cassava-leaf-disease.ipynb) | Leaf disease classification by photo  | Pytorch, Transfer learning, GPU | in progress |
 | [ Facial recognition ](https://github.com/marekts/Projects/tree/master/Face%20recognition) | Prediction age, gender and ethnicity by face image| Keras, CNN |  |
 | [ Books recommendation ](https://github.com/marekts/Projects/blob/master/Books%20recommendation/User-based.ipynb) | User-based recommender system | Pandas | | 
